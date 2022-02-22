@@ -13,10 +13,10 @@
 
 <div class="header-list">
 <div class="header-right">
-  <li><a href="index.html">Home</a></li>
-    <li><a href="content.html">All Contents</a></li>
-    <li><a href="kategori.html">Categories</a></li>
-    <li><a href="us.html">Contact Us</a></li>
+  <li><a href="index.php">Home</a></li>
+    <li><a href="content.php">All Contents</a></li>
+    <li><a href="kategori.php">Categories</a></li>
+    <li><a href="us.php">Contact Us</a></li>
 </div>
 </div>
 <div class="garis">
